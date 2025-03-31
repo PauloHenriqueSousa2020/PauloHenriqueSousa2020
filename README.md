@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Paulo Henrique 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique2020/)
 
+## 🔗 Link para o Portfólio
+
+[Acesse meu portfólio aqui](https://paulohenriquesousa2020.vercel.app)
+
 ## Tecnologias
 
 <div style="display: inline_block">
